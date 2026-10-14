@@ -1,2 +1,1 @@
-# DDA
-codes du cours du Dévelopement au Déploiement d'Application Conteneurisées 
+# Du Développement au Déploiement d'Application
