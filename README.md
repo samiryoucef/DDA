@@ -12,9 +12,13 @@ Le répertoire `RMI` contient un premier exemple de communication entre un serve
 
 Cet exemple permet de comprendre le principe des appels de méthodes à distance et de voir comment un client peut communiquer avec un serveur.
 
-### SOAP (Python / PHP)
+### SOAP (Python-Java / PHP)
 
-Le répertoire `SOAP` contient un exemple de service Web SOAP développé en Python, ainsi qu'un client PHP permettant de l'utiliser.
+Le répertoire **SOAP** est organisé en deux parties principales : **BACKENDPythonJava** et **FRONTENDPhp**.
+
+Le répertoire **BACKENDPythonJava** contient deux sous-répertoires : l’un regroupe le service web SOAP développé en Python, tandis que l’autre contient le service web SOAP développé en Java.
+
+Le répertoire **FRONTENDPhp** contient un client développé en PHP, qui permet de communiquer avec ces deux services web et d’appeler leurs méthodes afin de récupérer les résultats renvoyés.
 
 Ce TP permet notamment de manipuler un service Web et de voir comment deux applications écrites dans des langages différents peuvent communiquer.
 
