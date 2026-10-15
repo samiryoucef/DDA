@@ -1,4 +1,4 @@
-# Du Développement au Déploiement d'Application
+# Du Développement au Déploiement d'Applications conteneurisées 
 
 Ce dépôt contient les exemples de code et les travaux pratiques réalisés dans le cadre du cours DDA.
 
