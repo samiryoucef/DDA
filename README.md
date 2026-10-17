@@ -6,6 +6,16 @@ Vous y trouverez les programmes étudiés en cours ainsi que les différentes ma
 
 ## Contenu du dépôt
 
+Le dépôt contient les dossiers suivants : 
+
+DDA/
+├── README.md
+├── REST/
+│   └── PYTHON/
+├── RMI/
+└── SOAP/
+
+
 ### RMI (Java)
 
 Le répertoire `RMI` contient un premier exemple de communication entre un serveur et un client Java à l'aide de Java RMI.
