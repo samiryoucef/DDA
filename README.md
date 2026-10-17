@@ -1,8 +1,8 @@
-# Du Développement au Déploiement d'Applications conteneurisées 
+# Du Développement au Déploiement d'Applications conteneurisées (DDAC)
 
-Ce dépôt contient les exemples de code et les travaux pratiques réalisés dans le cadre du cours DDA.
+Ce dépôt contient les exemples de code et les travaux pratiques réalisés dans le cadre du cours DDAC.
 
-Vous y trouverez les programmes étudiés en cours ainsi que les différentes manipulations effectuées pendant les séances de TP. L'objectif est de pouvoir retrouver facilement les exemples, les consulter et les reprendre pour les exercices.
+Vous y trouverez les programmes étudiés en cours ainsi que les différentes manipulations effectuées pendant les séances de TP. L'objectif est de pouvoir retrouver facilement les exemples, les consulter et les reprendre pour les exercices. 
 
 ## Contenu du dépôt
 
